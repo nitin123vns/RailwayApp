@@ -1,1 +1,25 @@
-{"name":"com.rail.merailapp","version":"1.0.0","displayName":"MeRailApps","cordova":{"platforms":["android"]},"dependencies":{"cordova-android":"~7.1.4"}}
+{
+    "name": "RailwayMaintenanceN1",
+    "version": "1.0.0",
+    "private": true,
+    "dependencies": {
+        "cordova-plugin-camera": "3.0.0",
+        "cordova-plugin-splashscreen": "4.1.0",
+        "cordova-plugin-whitelist": "1",
+        "org.apache.cordova.dialogs": "D:\\Downloads\\Cordova-QR-Code-Reader-master\\Cordova-QR-Code-Reader-master\\plugins\\org.apache.cordova.dialogs",
+        "org.apache.cordova.inappbrowser": "D:\\Downloads\\Cordova-QR-Code-Reader-master\\Cordova-QR-Code-Reader-master\\plugins\\org.apache.cordova.inappbrowser",
+        "phonegap-plugin-barcodescanner": "D:\\Downloads\\Cordova-QR-Code-Reader-master\\Cordova-QR-Code-Reader-master\\plugins\\phonegap-plugin-barcodescanner",
+        "cordova-plugin-file": "4.3.3"
+    },
+    "cordova": {
+        "plugins": {
+            "cordova-plugin-camera": {},
+            "cordova-plugin-splashscreen": {},
+            "cordova-plugin-whitelist": {},
+            "org.apache.cordova.dialogs": {},
+            "org.apache.cordova.inappbrowser": {},
+            "phonegap-plugin-barcodescanner": {},
+            "cordova-plugin-file": {}
+        }
+    }
+}
